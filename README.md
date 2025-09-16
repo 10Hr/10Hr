@@ -308,7 +308,6 @@ This is a high-strategy card game with deck building aspects, where players plot
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-e0af68?logo=javascript&logoColor=1a1b27&style=flat-square)
 ![WebGL](https://img.shields.io/badge/WebGL-dcdfe4?logo=webgl&logoColor=ba0c2f&style=flat-square)
-
 ![HTML5](https://img.shields.io/badge/HTML5-dcdfe4?logo=html5&logoColor=ff9e64&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-dcdfe4?style=for-the-badge&logo=css&logoColor=7a3db8&style=flat-square)
 
@@ -340,7 +339,6 @@ Created a Bayesian classifier that predicts sentiment from movie reviews using 8
 ![JavaScript](https://img.shields.io/badge/JavaScript-e0af68?logo=javascript&logoColor=1a1b27&style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-7aa2f7?logo=php&logoColor=1a1b27&style=flat-square)
 ![WebGL](https://img.shields.io/badge/WebGL-dcdfe4?logo=webgl&logoColor=ba0c2f&style=flat-square)
-
 ![jQuery](https://img.shields.io/badge/jQuery-7aa2f7?logo=jquery&logoColor=1a1b27&style=flat-square)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=flat-square)
 
