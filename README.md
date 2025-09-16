@@ -454,6 +454,6 @@ Rhythm game fused with RPG elements including story, combat, and team management
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer&fontSize=20&fontColor=a9b1d6&animation=fadeIn)
 
-**🎯 Turning idea into reality since 2017**
+**🎯 Turning ideas into reality since 2017**
 
 </div>
