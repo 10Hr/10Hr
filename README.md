@@ -279,6 +279,8 @@ Fully autonomous robot with advanced AI capabilities for indoor laser tag, utili
 
 My largest contribution was on the autonomous movement around the arena. Using the xbox 360 kinect to avoid obstacles autonomously was the highlight of this project, this was done using the libfreenect library in C++ and python cross integration.
 
+This project was both writing software as well as working with hardware (We made a godzilla robot). 
+
 </td>
 
 <td width="50%" style="background: rgba(255, 158, 100, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
