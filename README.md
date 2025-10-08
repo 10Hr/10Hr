@@ -85,7 +85,7 @@
 
 <!-- Quant / FinTech Experience -->
 <details style="background: rgba(122, 162, 247, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #7aa2f7;">
-  <summary><b>🏦 Quant Developer Consultant @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
+  <summary><b>🏦 Quantitative Development Consultant @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
   <br>
   <ul>
     <li>Built and maintained <b>C#/.NET</b> and <b>Python</b> trading infrastructure.</li>
