@@ -6,7 +6,7 @@
 
 <div style="background: linear-gradient(135deg, #1a1b27 0%, #24283b 50%, #414868 100%); color: #a9b1d6; padding: 40px; border-radius: 20px; margin: 20px 0;">
 
-# <div align="center">Software Engineer</div>
+# <div align="center">👋 Hey welcome to my profile! Im Tyler</div>
 
 <!-- Quantitative Developer & Full Stack Engineer</div> -->
 
