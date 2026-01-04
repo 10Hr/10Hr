@@ -14,7 +14,7 @@
   
 <!-- 🏦 **Quantitative Developer** | 📊 **Full Stack Developer** | 🎮 **Game Developer** -->
 
-**Full Stack & Software Developer** | **Quantitative Developer** | **Game Developer**
+**Full Stack Software Developer** | **Quantitative Developer** | **Game Developer**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1b27?style=for-the-badge&logoColor=white)](https://github.com/10Hr/10Hr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27)](https://www.linkedin.com/in/tyler-mccluskey-software-engineer/)
@@ -85,12 +85,12 @@
 
 <!-- Quant / FinTech Experience -->
 <details style="background: rgba(122, 162, 247, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #7aa2f7;">
-  <summary><b>🏦 Quantitative Development Consultant @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
+  <summary><b>🏦 Trading Systems Engineer @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
   <br>
   <ul>
-    <li>Built and maintained <b>C#/.NET</b> and <b>Python</b> trading infrastructure.</li>
-    <li>Developed real-time <b>WPF dashboards</b> and analytics tools to monitor strategy performance and market signals.</li>
-    <li>Collaborated with researchers to deliver prototypes and statistical models.</li>
+    <li>Developed <b>C#</b> automated trading systems in NinjaTrader for equity index futures (NQ, ES, YM); built custom indicators and risk management infrastructure with live CME market data for strategy development.</li>
+    <li>Created <b>Python</b> analytics suite for multi-instrument backtesting, and real time risk monitoring; implemented dashboards tracking P&L, Sharpe ratios, drawdowns, and execution metrics during prop firm testing.</li>
+    <li>Collaborated with traders on signal generation and strategy optimization; iterated on systematic approaches based on research and backtested performance.</li>
   </ul>
 </details>
 
@@ -243,8 +243,10 @@
 ![OxyPlot](https://img.shields.io/badge/OxyPlot-f7768e?style=flat-square)
 
 
-Interactive tool for high frequency microsecond option quote data analysis with KS testing and real time visualization with OxyPlot.
- 
+Delivered complete take home project for a proprietary trading firm; built an interactive desktop microstructure research tool that computes log returns and tests their fit to Student’s t distributions using Kolmogorov–Smirnov tests.
+
+Leveraged Metalama aspect-oriented programming to automate MVVM property notifications; designed multipanel interface for exploratory analysis across configurable time windows and sampling granularities, enabling researchers to evaluate where standard distribution assumptions break down in microsecond options data.
+  
 </td>
 
 <td width="50%" style="background: rgba(157, 124, 216, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
