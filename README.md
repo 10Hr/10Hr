@@ -85,7 +85,7 @@
 
 <!-- Quant / FinTech Experience -->
 <details style="background: rgba(122, 162, 247, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #7aa2f7;">
-  <summary><b>🏦 Trading Systems Engineer @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
+  <summary><b>🏦 Trading Infrastructure Engineer @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
   <br>
   <ul>
     <li>Developed <b>C#</b> automated trading systems in NinjaTrader for equity index futures (NQ, ES, YM); built custom indicators and risk management infrastructure with live CME market data for strategy development.</li>
@@ -164,6 +164,7 @@
 
 ### 💻 Programming & Software Engineering
 ![C++](https://img.shields.io/badge/C++-7aa2f7?style=for-the-badge&logo=cplusplus&logoColor=1a1b27)
+![Go](https://img.shields.io/badge/Go-1a1b27?style=for-the-badge&logo=go&logoColor=#79d4fd)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=1a1b27)
 ![.NET](https://img.shields.io/badge/.NET-bb9af7?style=for-the-badge&logo=.net&logoColor=1a1b27)
@@ -230,9 +231,34 @@
 
 <table style="width: 100%; background: rgba(169, 177, 214, 0.05); border-radius: 15px; padding: 20px;">
 <tr>
+
 <td width="50%" style="background: rgba(122, 162, 247, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 📊 [Quote-Process-Granularity-Explorer-Application (ZSExplorer)](https://github.com/10Hr/Quote-Process-Granularity-Explorer-Application)
+### [Tradovate Execution Engine](https://github.com/10Hr/Tradovate-Execution-Engine)
+**A terminal-based execution engine built in Go**
+
+![Go](https://img.shields.io/badge/Go-1a1b27?logo=go&logoColor=#79d4fd&style=flat-square)
+![REST%20API](https://img.shields.io/badge/REST%20API-1a1b27?logo=swagger&logoColor=85ea2d&style=flat-square)
+![Socket%20Programming](https://img.shields.io/badge/Socket%20Programming-f7768e?style=flat-square)
+
+
+Completed as a take home project for a proprietary trading firm. 
+
+Production ready automated trading engine in Go in 10 days while learning the language from scratch. 
+
+Concurrent WebSocket streaming for real-time market data and order execution using goroutines with RWMutex/Mutex synchronization for thread-safe position and order state management.
+
+Engineered two layer risk management system: per-symbol position limits enforced at order submission + session P&L monitoring with automated position flattening and strategy shutdown on daily loss limit breach.
+Designed modular architecture supporting multiple trading strategies with configurable position sizing, risk management, and order routing logic.
+
+Built terminal UI with 5 interactive tabs using event driven goroutine message handling; implemented custom in memory circular buffer logger supporting 500 entries per stream.
+
+  
+</td>
+
+<td width="50%" style="background: rgba(122, 162, 247, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
+
+### [Quote-Process-Granularity-Explorer-Application (ZSExplorer)](https://github.com/10Hr/Quote-Process-Granularity-Explorer-Application)
 **High Frequency Options Analytics Tool**
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=1a1b27&style=flat-square)
@@ -243,15 +269,19 @@
 ![OxyPlot](https://img.shields.io/badge/OxyPlot-f7768e?style=flat-square)
 
 
-Delivered complete take home project for a proprietary trading firm; built an interactive desktop microstructure research tool that computes log returns and tests their fit to Student’s t distributions using Kolmogorov–Smirnov tests.
+Completed as a take home project for a proprietary trading firm. 
+
+Interactive desktop microstructure research tool that computes log returns and tests their fit to Student’s t distributions using Kolmogorov–Smirnov tests.
 
 Leveraged Metalama aspect-oriented programming to automate MVVM property notifications; designed multipanel interface for exploratory analysis across configurable time windows and sampling granularities, enabling researchers to evaluate where standard distribution assumptions break down in microsecond options data.
   
 </td>
+</tr>
+<tr>
 
 <td width="50%" style="background: rgba(157, 124, 216, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 📈 [C++ Options Pricer](https://github.com/10Hr/CPP-Options-Pricer)
+### [C++ Options Pricer](https://github.com/10Hr/CPP-Options-Pricer)
 **Simulated Futures Tick Data Generator && Black-76 Options Pricer**
 
 ![C++](https://img.shields.io/badge/C++-7aa2f7?logo=cplusplus&logoColor=1a1b27&style=flat-square)
@@ -264,12 +294,9 @@ About A multithreaded program that generated simulated CL futures tick data and 
 
 </td>
 
-</tr>
-<tr>
-
 <td width="50%" style="background: rgba(157, 124, 216, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 🤖 [Autonomous Robot Laser Tag](https://github.com/joeoakes/CMPSC488FA24Sec1Team2)
+### [Autonomous Robot Laser Tag](https://github.com/joeoakes/CMPSC488FA24Sec1Team2)
 **Penn State Capstone Project**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=flat-square)
@@ -284,10 +311,13 @@ My largest contribution was on the autonomous movement around the arena. Using t
 This project was both writing software as well as working with hardware (We made a godzilla robot). 
 
 </td>
+</tr>
+
+<tr>
 
 <td width="50%" style="background: rgba(255, 158, 100, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 🧩 [Power Struggle](https://github.com/10Hr/Power-Struggle)
+### [Power Struggle](https://github.com/10Hr/Power-Struggle)
 **2D Multiplayer Tabletop Card Game**
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=1a1b27&style=flat-square)
@@ -302,12 +332,9 @@ This is a high-strategy card game with deck building aspects, where players plot
 
 </td>
 
-</tr>
-
-<tr>
 <td width="50%" style="background: rgba(122, 162, 247, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 🏔 [TerrainGL](https://github.com/10Hr/TerrainGL)
+### [TerrainGL](https://github.com/10Hr/TerrainGL)
 **Procedural Terrain Generator**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-e0af68?logo=javascript&logoColor=1a1b27&style=flat-square)
@@ -318,9 +345,13 @@ This is a high-strategy card game with deck building aspects, where players plot
 Created a 2D terrain generator using Perlin Noise with WebGL rendering.
 
 </td>
+
+</tr>
+<tr>
+
 <td width="50%" style="background: rgba(157, 124, 216, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 🎬 Bayesian Classification: "A Bag of Words"
+### Bayesian Classification: "A Bag of Words"
 **Movie Review Sentiment Classifier**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=flat-square)
@@ -331,11 +362,10 @@ Created a 2D terrain generator using Perlin Noise with WebGL rendering.
 Created a Bayesian classifier that predicts sentiment from movie reviews using 80/20 and 50/50 training/testing splits.
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" style="background: rgba(125, 207, 255, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 🕹 [TofuMaster](https://github.com/10Hr/TofuMaster)
+### [TofuMaster](https://github.com/10Hr/TofuMaster)
 **3D Web Horror Game**
 
 ![HTML5](https://img.shields.io/badge/HTML5-dcdfe4?logo=html5&logoColor=ff9e64&style=flat-square)
@@ -349,10 +379,12 @@ Created a Bayesian classifier that predicts sentiment from movie reviews using 8
 3D horror web game created in 2 weeks. [Play here](https://tofumaster.grizos.org)
 
 </td>
+</tr>
+<tr>
 
 <td width="50%" style="background: rgba(255, 158, 100, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 🧠 Neural Trader
+### Neural Trader
 **AI Trading Bot**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=flat-square)
@@ -364,12 +396,9 @@ Created a Bayesian classifier that predicts sentiment from movie reviews using 8
 Trading bot using neural networks and linear regression for stock price prediction.
 
 </td>
-
-</tr>
-<tr>
 <td width="50%" style="background: rgba(122, 162, 247, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
-### 🗣 [SafeTalk](https://github.com/10Hr/Safetalk)
+### [SafeTalk](https://github.com/10Hr/Safetalk)
 **Anonymous Chat App**
 
 ![HTML5](https://img.shields.io/badge/HTML5-f7768e?logo=html5&logoColor=1a1b27&style=flat-square)
@@ -381,12 +410,13 @@ Trading bot using neural networks and linear regression for stock price predicti
 Safespace chat app allowing anonymous user connections and messaging.
 
 </td>
-
+</tr>
+<tr>
 <td width="50%" style="background: rgba(125, 207, 255, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
 
 
-### 🎮 [BardyBash](https://github.com/EricJ-code/BardyBash)
+### [BardyBash](https://github.com/EricJ-code/BardyBash)
 **Rhythm RPG Game**
 
 ![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=1a1b27&style=flat-square)
@@ -398,7 +428,6 @@ Safespace chat app allowing anonymous user connections and messaging.
 Rhythm game fused with RPG elements including story, combat, and team management.
 
 </td>
-
 </tr>
 
 </table>
