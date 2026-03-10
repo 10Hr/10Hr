@@ -85,12 +85,15 @@
 
 <!-- Quant / FinTech Experience -->
 <details style="background: rgba(122, 162, 247, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #7aa2f7;">
-  <summary><b>🏦 Trading Infrastructure Engineer @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
+  <summary><b>🏦 Quantitative Developer @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
   <br>
   <ul>
-    <li>Developed <b>C#</b> automated trading systems in NinjaTrader for equity index futures (NQ, ES, YM); built custom indicators and risk management infrastructure with live CME market data for strategy development.</li>
-    <li>Created <b>Python</b> analytics suite for multi-instrument backtesting, and real time risk monitoring; implemented dashboards tracking P&L, Sharpe ratios, drawdowns, and execution metrics during prop firm testing.</li>
-    <li>Collaborated with traders on signal generation and strategy optimization; iterated on systematic approaches based on research and backtested performance.</li>
+    <li>Built automation and research tooling supporting systematic equity index futures trading (ES, NQ, YM) on the NinjaTrader platform.</li>
+<li>Developed Python pipelines to ingest and clean external datasets via WebSocket APIs for strategy research and visualization.</li>
+<li>Built a Python backtesting framework using historical tick data exported from NinjaTrader to overcome limitations in NinjaTrader’s backtesting framework.</li>
+<li>Implemented slippage modeling, Monte Carlo simulations, and conditional expectation analysis to evaluate strategy robustness and execution risk.</li>
+<li>Developed C# strategy utilities and automation components within NinjaTrader to automate strategy testing workflows.</li>
+    
   </ul>
 </details>
 
@@ -241,19 +244,15 @@
 ![REST%20API](https://img.shields.io/badge/REST%20API-1a1b27?logo=swagger&logoColor=85ea2d&style=flat-square)
 ![Socket%20Programming](https://img.shields.io/badge/Socket%20Programming-f7768e?style=flat-square)
 
+Built a real-time trading execution engine in Go with concurrent WebSocket streaming for real time market data and routing orders via REST APIs.
 
-Completed as a take home project for a proprietary trading firm. 
-
-Production ready automated trading engine in Go in 10 days while learning the language from scratch. 
-
-Concurrent WebSocket streaming for real-time market data and order execution using goroutines with RWMutex/Mutex synchronization for thread-safe position and order state management.
+Designed concurrent market data and order management pipelines using goroutines and mutex synchronization.
 
 Engineered two layer risk management system: per-symbol position limits enforced at order submission + session P&L monitoring with automated position flattening and strategy shutdown on daily loss limit breach.
-Designed modular architecture supporting multiple trading strategies with configurable position sizing, risk management, and order routing logic.
+
+Architected the engine as a modular monolith, separating strategy logic, risk management, and order routing into independently configurable modules while maintaining a single deployable binary for operational simplicity.
 
 Built terminal UI with 5 interactive tabs using event driven goroutine message handling; implemented custom in memory circular buffer logger supporting 500 entries per stream.
-
-  
 </td>
 
 <td width="50%" style="background: rgba(122, 162, 247, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
@@ -268,12 +267,11 @@ Built terminal UI with 5 interactive tabs using event driven goroutine message h
 ![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-ff9e64?style=flat-square)
 ![OxyPlot](https://img.shields.io/badge/OxyPlot-f7768e?style=flat-square)
 
+Built an interactive desktop microstructure research tool in C# WPF using an MVVM architecture, computing log returns and evaluating distribution fit with Kolmogorov–Smirnov tests on high-frequency options feather data.
 
-Completed as a take home project for a proprietary trading firm. 
+Reduced MVVM boilerplate by ~40% using Metalama aspect-oriented programming to automate MVVM property notifications.
 
-Interactive desktop microstructure research tool that computes log returns and tests their fit to Student’s t distributions using Kolmogorov–Smirnov tests.
-
-Leveraged Metalama aspect-oriented programming to automate MVVM property notifications; designed multipanel interface for exploratory analysis across configurable time windows and sampling granularities, enabling researchers to evaluate where standard distribution assumptions break down in microsecond options data.
+Designed a multipanel interface for exploratory analysis across configurable time windows and sampling granularities, enabling researchers to evaluate where standard distribution assumptions break down in microsecond options data.
   
 </td>
 </tr>
@@ -288,7 +286,7 @@ Leveraged Metalama aspect-oriented programming to automate MVVM property notific
 ![Finance](https://img.shields.io/badge/Finance-333333?style=flat-square)
 ![Math](https://img.shields.io/badge/Math-333333?style=flat-square)
 
-About A multithreaded program that generated simulated CL futures tick data and computes option prices and greeks using Black-76 Model.
+A multithreaded program that generated simulated CL futures tick data and computes option prices and greeks using Black-76 Model.
 
 **Notable achievement:** Generates ~500k ticks in ~0.04 seconds.
 
