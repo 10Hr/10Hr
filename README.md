@@ -239,15 +239,15 @@
 ![REST%20API](https://img.shields.io/badge/REST%20API-1a1b27?logo=swagger&logoColor=85ea2d&style=flat-square)
 ![Socket%20Programming](https://img.shields.io/badge/Socket%20Programming-f7768e?style=flat-square)
 
-Built a real-time trading execution engine in Go with concurrent WebSocket streaming for real time market data and routing orders via REST APIs.
+Execution engine in Go with concurrent WebSocket streaming for real time market data and routing orders via REST APIs.
 
-Designed concurrent market data and order management pipelines using goroutines and mutex synchronization.
+Uses goroutines and RWMutexes for concurrent market data and order management pipelines.
 
-Engineered two layer risk management system: per-symbol position limits enforced at order submission + session P&L monitoring with automated position flattening and strategy shutdown on daily loss limit breach.
+Two layer risk management system: per-symbol position limits enforced at order submission + session P&L monitoring with automated position flattening and strategy shutdown on daily loss limit breach.
 
-Architected the engine as a modular monolith, separating strategy logic, risk management, and order routing into independently configurable modules while maintaining a single deployable binary for operational simplicity.
+Architected as a modular monolith, separating strategy logic, risk management, and order routing into independently configurable modules.
 
-Built terminal UI with 5 interactive tabs using event driven goroutine message handling; implemented custom in memory circular buffer logger supporting 500 entries per stream.
+Has a terminal UI with 5 interactive tabs using event driven goroutine message handling; implemented custom in memory circular buffer logger supporting 500 entries per stream.
 </td>
 
 <td width="50%" style="background: rgba(122, 162, 247, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
@@ -262,11 +262,11 @@ Built terminal UI with 5 interactive tabs using event driven goroutine message h
 ![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-ff9e64?style=flat-square)
 ![OxyPlot](https://img.shields.io/badge/OxyPlot-f7768e?style=flat-square)
 
-Built an interactive desktop microstructure research tool in C# WPF using an MVVM architecture, computing log returns and evaluating distribution fit with Kolmogorov–Smirnov tests on high-frequency options feather data.
+Interactive desktop microstructure research tool in C# WPF using an MVVM architecture, computing log returns and evaluating distribution fit with Kolmogorov–Smirnov tests on high-frequency options feather data.
 
 Reduced MVVM boilerplate by ~40% using Metalama aspect-oriented programming to automate MVVM property notifications.
 
-Designed a multipanel interface for exploratory analysis across configurable time windows and sampling granularities, enabling researchers to evaluate where standard distribution assumptions break down in microsecond options data.
+Has a multipanel interface for exploratory analysis across configurable time windows and sampling granularities, enabling researchers to evaluate where standard distribution assumptions break down in microsecond options data.
   
 </td>
 </tr>
