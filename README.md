@@ -65,11 +65,6 @@
   <td><strong>Currently working on:</strong> <em>Project NyNy</em> (horror game)</td>
 </tr>
 
-<tr style="background: rgba(158, 206, 106, 0.1);">
-  <td align="center">🌧️</td>
-  <td><strong>Currently listening to:</strong> Rain sounds while coding 🎧</td>
-</tr>
-
 </table>
 
 
