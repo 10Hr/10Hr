@@ -369,7 +369,7 @@ Created a Bayesian classifier that predicts sentiment from movie reviews using 8
 ![jQuery](https://img.shields.io/badge/jQuery-7aa2f7?logo=jquery&logoColor=1a1b27&style=flat-square)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=flat-square)
 
-3D horror web game created in 2 weeks. [Play here](https://tofumaster.grizos.org)
+3D horror web game created in 2 weeks. [Play here](https://ornate-semifreddo-0906ff.netlify.app/)
 
 </td>
 </tr>
