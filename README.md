@@ -14,9 +14,9 @@
   
 <!-- 🏦 **Quantitative Developer** | 📊 **Full Stack Developer** | 🎮 **Game Developer** -->
 
-**Full Stack Software Developer** | **Quantitative Developer** | **Game Developer**
+**Open to Quantitative Developer / Trading Support Engineer roles**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1b27?style=for-the-badge&logoColor=white)](https://github.com/10Hr/10Hr)
+<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1b27?style=for-the-badge&logoColor=white)](https://github.com/10Hr/10Hr) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27)](https://www.linkedin.com/in/tyler-mccluskey-software-engineer/)
 [![Email](https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=1a1b27)](mailto:tmccluskey2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-414868?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10hr)
@@ -37,7 +37,7 @@
 
 <tr style="background: rgba(116, 199, 255, 0.1);">
   <td align="center">💼</td>
-  <td>Turning complex ideas into real working software</td>
+  <td>C#, Python Developer - Passionate about trading systems and game engines/development</td>
 </tr>
 
 <tr style="background: rgba(140, 170, 255, 0.1);">
@@ -45,7 +45,7 @@
   <td><strong>Penn State University</strong> - Computer Science Graduate (Class of 2025)</td>
 </tr>
 
-<tr style="background: rgba(170, 140, 240, 0.1);">
+<!-- <tr style="background: rgba(170, 140, 240, 0.1);">
   <td align="center">📈</td>
   <td><strong>1.5+ Years</strong> in quantitative finance & trading systems</td>
 </tr>
@@ -58,7 +58,7 @@
 <tr style="background: rgba(244, 144, 132, 0.1);">
   <td align="center">💻</td>
   <td><strong>6+ Months</strong> in full stack web development (HTML, CSS, PHP, MySQL)</td>
-</tr>
+</tr> -->
 
 <tr style="background: rgba(220, 130, 160, 0.1);">
   <td align="center">👾</td>
@@ -80,10 +80,9 @@
 
 <!-- Quant / FinTech Experience -->
 <details style="background: rgba(122, 162, 247, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #7aa2f7;">
-  <summary><b>🏦 Quantitative Developer @ Sentinel Capital</b> <i>(Jan 2024 – Jul 2025)</i></summary>
+  <summary><b>🏦 Quantitative Developer @ Sentinel Capital</b> <i>(2024 – 2025)</i></summary>
   <br>
   <ul>
-    <li>Built automation and research tooling supporting systematic equity index futures trading (ES, NQ, YM) on the NinjaTrader platform.</li>
 <li>Developed Python pipelines to ingest and clean external datasets via WebSocket APIs for strategy research and visualization.</li>
 <li>Built a Python backtesting framework using historical tick data exported from NinjaTrader to overcome limitations in NinjaTrader’s backtesting framework.</li>
 <li>Implemented slippage modeling, Monte Carlo simulations, and conditional expectation analysis to evaluate strategy robustness and execution risk.</li>
@@ -93,7 +92,7 @@
 </details>
 
 <details style="background: rgba(125, 207, 255, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #7dcfff;">
-  <summary><b>🚀 Founder @ EON Technologies (FinTech Startup)</b> <i>(Feb 2024 – Jun 2024)</i></summary>
+  <summary><b>🚀 Founder @ EON Technologies (FinTech Startup)</b> <i>(2024 – 2024)</i></summary>
   <br>
   <ul>
     <li>Founded a fintech startup focused on helping retail traders automate trading strategies using AI + custom tools.</li>
@@ -106,7 +105,7 @@
 
 <!-- Web Dev Experience -->
 <details style="background: rgba(157, 214, 180, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #9ed6b4;">
-  <summary><b>💻 Full-Stack Developer @ Venture 3 Systems</b> <i>(Aug 2024 – Oct 2024)</i></summary>
+  <summary><b>🌐 Full-Stack Developer @ Venture 3 Systems</b> <i>(2024 – 2024)</i></summary>
   <br>
   <ul>
     <li>Developed statistical forecasting tools for call volume using <b>SQL/PHP</b>.</li>
@@ -116,7 +115,7 @@
 </details>
 
 <details style="background: rgba(244, 176, 132, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #f4b084;">
-  <summary><b>🌐 Web Development Intern @ Turn 14 Distribution</b> <i>(Jun 2023 – Aug 2023)</i></summary>
+  <summary><b>🌐 Web Development Intern @ Turn 14 Distribution</b> <i>(2023 – 2023)</i></summary>
   <br>
   <ul>
     <li>Designed and implemented LAMP stack software using <b>PHP, MySQL, JavaScript, jQuery, AJAX,</b> and <b>Bootstrap</b>.</li>
@@ -128,7 +127,7 @@
 
 <!-- Game Dev Experience -->
 <details style="background: rgba(200, 120, 210, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #c878d2;">
-  <summary><b>🎮 Game Development Contractor @ Royal Toast Films</b> <i>(Aug 2023 – Apr 2024)</i></summary>
+  <summary><b>🎮 Game Development Contractor @ Royal Toast Films</b> <i>(2023 – 2024)</i></summary>
   <br>
   <ul>
     <li>Designed and developed a <b>2D web-based matching game</b> using Unity and WebGL.</li>
@@ -138,7 +137,7 @@
 </details>
 
 <details style="background: rgba(225, 118, 182, 0.1); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #e176b6;">
-<summary><b>👾 Independent Game Developer – Project NyNy</b> <i>(2025  – Present)</i></summary>
+<summary><b>🎮 Independent Game Developer – Project NyNy</b> <i>(2025 – Present)</i></summary>
 <br>
 <ul>
 <li>Currently developing <b>Project NyNy</b>, an original 2D horror game blending atmosphere, puzzle design, and immersive audio.</li>
@@ -152,19 +151,22 @@
 
 <div style="background: linear-gradient(135deg, #24283b 0%, #414868 100%); color: #a9b1d6; padding: 30px; border-radius: 15px; margin: 20px 0; border: 2px solid #bb9af7;">
 
+<!--
 <div align="center">
 
 ## 🛠️ Tech Stack
 
 </div>
 
+
 <div align="center">
 
 ### 💻 Programming & Software Engineering
-![C++](https://img.shields.io/badge/C++-7aa2f7?style=for-the-badge&logo=cplusplus&logoColor=1a1b27)
+<!![C++](https://img.shields.io/badge/C++-7aa2f7?style=for-the-badge&logo=cplusplus&logoColor=1a1b27)
 ![Go](https://img.shields.io/badge/Go-1a1b27?style=for-the-badge&logo=go&logoColor=#79d4fd)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=1a1b27)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 ![.NET](https://img.shields.io/badge/.NET-bb9af7?style=for-the-badge&logo=.net&logoColor=1a1b27)
 ![WPF](https://img.shields.io/badge/WPF-7dcfff?style=for-the-badge&logo=windows&logoColor=1a1b27)
 ![XAML](https://img.shields.io/badge/XAML-7aa2f7?style=for-the-badge&logo=visual-studio&logoColor=1a1b27)
@@ -215,7 +217,7 @@
 
 
 </div>
-
+-->
 
 </div>
 
@@ -272,6 +274,7 @@ Has a multipanel interface for exploratory analysis across configurable time win
 </tr>
 <tr>
 
+<!--
 <td width="50%" style="background: rgba(157, 124, 216, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
 ### [C++ Options Pricer](https://github.com/10Hr/CPP-Options-Pricer)
@@ -286,6 +289,7 @@ A multithreaded program that generated simulated CL futures tick data and comput
 **Notable achievement:** Generates ~500k ticks in ~0.04 seconds.
 
 </td>
+-->
 
 <td width="50%" style="background: rgba(157, 124, 216, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
@@ -304,9 +308,6 @@ My largest contribution was on the autonomous movement around the arena. Using t
 This project was both writing software as well as working with hardware (We made a godzilla robot). 
 
 </td>
-</tr>
-
-<tr>
 
 <td width="50%" style="background: rgba(255, 158, 100, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
@@ -325,6 +326,9 @@ This is a high-strategy card game with deck building aspects, where players plot
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" style="background: rgba(122, 162, 247, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
 ### [TerrainGL](https://github.com/10Hr/TerrainGL)
@@ -336,6 +340,23 @@ This is a high-strategy card game with deck building aspects, where players plot
 ![CSS](https://img.shields.io/badge/CSS-dcdfe4?style=for-the-badge&logo=css&logoColor=7a3db8&style=flat-square)
 
 Created a 2D terrain generator using Perlin Noise with WebGL rendering.
+
+</td>
+
+<td width="50%" style="background: rgba(125, 207, 255, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
+
+### [TofuMaster](https://github.com/10Hr/TofuMaster)
+**3D Web Horror Game**
+
+![HTML5](https://img.shields.io/badge/HTML5-dcdfe4?logo=html5&logoColor=ff9e64&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-dcdfe4?style=for-the-badge&logo=css&logoColor=7a3db8&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-e0af68?logo=javascript&logoColor=1a1b27&style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-7aa2f7?logo=php&logoColor=1a1b27&style=flat-square)
+![WebGL](https://img.shields.io/badge/WebGL-dcdfe4?logo=webgl&logoColor=ba0c2f&style=flat-square)
+![jQuery](https://img.shields.io/badge/jQuery-7aa2f7?logo=jquery&logoColor=1a1b27&style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=flat-square)
+
+3D horror web game created in 2 weeks. [Play here](https://ornate-semifreddo-0906ff.netlify.app/)
 
 </td>
 
@@ -356,25 +377,6 @@ Created a Bayesian classifier that predicts sentiment from movie reviews using 8
 
 </td>
 
-<td width="50%" style="background: rgba(125, 207, 255, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
-
-### [TofuMaster](https://github.com/10Hr/TofuMaster)
-**3D Web Horror Game**
-
-![HTML5](https://img.shields.io/badge/HTML5-dcdfe4?logo=html5&logoColor=ff9e64&style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-dcdfe4?style=for-the-badge&logo=css&logoColor=7a3db8&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-e0af68?logo=javascript&logoColor=1a1b27&style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-7aa2f7?logo=php&logoColor=1a1b27&style=flat-square)
-![WebGL](https://img.shields.io/badge/WebGL-dcdfe4?logo=webgl&logoColor=ba0c2f&style=flat-square)
-![jQuery](https://img.shields.io/badge/jQuery-7aa2f7?logo=jquery&logoColor=1a1b27&style=flat-square)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=flat-square)
-
-3D horror web game created in 2 weeks. [Play here](https://ornate-semifreddo-0906ff.netlify.app/)
-
-</td>
-</tr>
-<tr>
-
 <td width="50%" style="background: rgba(255, 158, 100, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
 ### Neural Trader
@@ -389,6 +391,9 @@ Created a Bayesian classifier that predicts sentiment from movie reviews using 8
 Trading bot using neural networks and linear regression for stock price prediction.
 
 </td>
+</tr>
+<tr>
+
 <td width="50%" style="background: rgba(122, 162, 247, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
 
 ### [SafeTalk](https://github.com/10Hr/Safetalk)
@@ -403,11 +408,8 @@ Trading bot using neural networks and linear regression for stock price predicti
 Safespace chat app allowing anonymous user connections and messaging.
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" style="background: rgba(125, 207, 255, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
-
-
 
 ### [BardyBash](https://github.com/EricJ-code/BardyBash)
 **Rhythm RPG Game**
